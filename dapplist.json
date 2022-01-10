@@ -1,0 +1,54 @@
+[
+  {
+    "shortName": "DeHive",
+    "subtitle": "Well-Balanced Crypto Indexes",
+    "connectLink": "https://app.dehive.finance/",
+    "buttonColor": "#3F3F4B",
+    "chainIds": [1, 56, 100, 137],
+    "iconLink": "",
+    "longName": "DeHive DeFi Protocol",
+    "explainerTitle": "Maximise DeFi profits",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": false,
+    "sponsoredChainId": 100
+  },
+  {
+    "shortName": "StakeWise",
+    "subtitle": "ETH 2.0 Staking Service",
+    "connectLink": "https://stakewise.io/app/pool",
+    "buttonColor": "#4B4FAB",
+    "chainIds": [1],
+    "iconLink": "",
+    "longName": "StakeWise ETH 2.0 Staking",
+    "explainerTitle": "Earn rewards from staking Ether",
+    "explainerText": "By depositing ETH into StakeWise, you will participate in Ethereum 2.0's Proof-of-Stake consensus mechanism (staking) and receive ETH rewards in return.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\" in options menu",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": false,
+    "sponsoredChainId": 1
+  },
+  {
+    "shortName": "Honeyswap",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://app.honeyswap.org/",
+    "buttonColor": "#FFAA00",
+    "chainIds": [100, 137],
+    "iconLink": "",
+    "longName": "Honeyswap DEX",
+    "explainerTitle": "Swap tokens and provide liquidity",
+    "explainerText": "Honeyswap is a decentralized exchange aggregator, which enables users to experience fast and secure transactions with incredibly low fees.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\" in options menu",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": false,
+    "sponsoredChainId": 0
+  }
+]
