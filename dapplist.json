@@ -10,7 +10,7 @@
     "explainerTitle": "Maximise DeFi profits",
     "explainerText": "",
     "explainerStepByStep": [],
-    "sponsored": false,
+    "sponsored": 0,
     "sponsoredChainId": 100
   },
   {
@@ -29,7 +29,7 @@
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": false,
+    "sponsored": 0,
     "sponsoredChainId": 1
   },
   {
@@ -43,12 +43,345 @@
     "explainerTitle": "Swap tokens and provide liquidity",
     "explainerText": "Honeyswap is a decentralized exchange aggregator, which enables users to experience fast and secure transactions with incredibly low fees.",
     "explainerStepByStep": [
-      "Tap \"Connect Wallet\" in options menu",
+      "Tap \"Connect Wallet\"",
       "Choose \"WalletConnect\"",
       "Tap \"Connect\" and select \"Minerva Wallet\"",
       "Choose preferred account and tap \"Connect\""
     ],
-    "sponsored": false,
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Superfluid",
+    "subtitle": "Programmable Cashflows",
+    "connectLink": "https://app.superfluid.finance/dashboard",
+    "buttonColor": "#C9C8D3",
+    "chainIds": [100, 137],
+    "iconLink": "",
+    "longName": "Superfluid Dashboard",
+    "explainerTitle": "Manage streamable tokens",
+    "explainerText": "Handle subscriptions, salaries, rewards and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 2,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Eporio",
+    "subtitle": "NFT Marketplace",
+    "connectLink": "https://epor.io/connect/",
+    "buttonColor": "#00B4C7",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Eporio NFT Marketplace",
+    "explainerTitle": "Create and trade NFTs",
+    "explainerText": "Eporio is a sustainable marketplace for digital art and game assets. Trade NFTs like POAP or create your own CryptoArt while enjoying some of the lowest fees in the crypto world.",
+    "explainerStepByStep": [
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "QuickSwap",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://quickswap.exchange/",
+    "buttonColor": "#418ACA",
+    "chainIds": [137],
+    "iconLink": "",
+    "longName": "QuickSwap DEX",
+    "explainerTitle": "Swap tokens and provide liquidity",
+    "explainerText": "QuickSwap is the Next-gen Layer 2 Polygon DEX. Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Agave",
+    "subtitle": "Borrowing / Lending Protocol",
+    "connectLink": "https://app.agave.finance/",
+    "buttonColor": "#204C44",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Agave",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Aave",
+    "subtitle": "Borrowing / Lending Protocol",
+    "connectLink": "https://app.aave.com/markets",
+    "buttonColor": "#CC88BD",
+    "chainIds": [1, 137],
+    "iconLink": "",
+    "longName": "Aave",
+    "explainerTitle": "The Liquidity Protocol",
+    "explainerText": "Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.",
+    "explainerStepByStep": [
+      "Choose Aave market (v1, v2 or Polygon)",
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Minerva Farms",
+    "subtitle": "MIVA Liquidity Mining",
+    "connectLink": "https://farm.minerva.digital/#connect",
+    "buttonColor": "#5858ED",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Minerva Streaming Farms",
+    "explainerTitle": "Farm MIVA with streaming NFTs",
+    "explainerText": "Once you added LP-Tokens to the farm, you will see your Farming NFTs. Whoever holds the NFT, gets the farming reward stream. Don't miss out on leveling up to get the maximum possible flowrate.",
+    "explainerStepByStep": [
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 1,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Symmetric",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://xdai.symmetric.exchange/",
+    "buttonColor": "#334956",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Symmetric DEX",
+    "explainerTitle": "Swap tokens, fast and cheap",
+    "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. ",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 3,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Symmetric Pools",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://xdai-pools.symmetric.exchange/",
+    "buttonColor": "#334956",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Symmetric DEX Pools",
+    "explainerTitle": "Become a liquidity provider",
+    "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. Add your liquidity or create new pools and earn swaping fees.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Swapr",
+    "subtitle": "DEX & DeFi accross chains",
+    "connectLink": "https://bafybeicfhtvm543idbdzmtjw6o5gwkhzkjywqt2tb3qfwwkudjuvjhkjoe.ipfs.dweb.link/#/swap?chainId=100",
+    "buttonColor": "#3F3F4B",
+    "chainIds": [1, 100],
+    "iconLink": "",
+    "longName": "Swapr DEX",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Zeroalpha",
+    "subtitle": "Always-on-Sale Artwork",
+    "connectLink": "https://zeroalpha.art/",
+    "buttonColor": "#5C5D6D",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Zeroalpha NFT Marketplace",
+    "explainerTitle": "Purchase always-on-sale NFTs",
+    "explainerText": "ZeroAlpha is an always-on-sale NFT artwork platform, where the owners provide a patronage fee to non-profit and purpose-driven organizations working on the UN Sustainable Development Goals.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "1inch",
+    "subtitle": "DEX Aggregator Service",
+    "connectLink": "https://app.1inch.io/",
+    "buttonColor": "#192951",
+    "chainIds": [1, 10, 56, 137, 42161],
+    "iconLink": "",
+    "longName": "1inch DEX Aggregator",
+    "explainerTitle": "High capital efficient DeFi protocols",
+    "explainerText": "DeFi / DEX aggregator with the most liquidity and the best rates on Ethereum, Binance Smart Chain, Optimism, Polygon, 1inch dApp is an entry point to the 1inch Network's tech.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Accept  Terms of Service & Privacy Policy",
+      "Choose Network",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "CowSwap",
+    "subtitle": "DEX Aggregator Service",
+    "connectLink": "https://cowswap.exchange",
+    "buttonColor": "#7FADBE",
+    "chainIds": [1],
+    "iconLink": "",
+    "longName": "CowSwap DEX Aggregator",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Uniswap",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://app.uniswap.org",
+    "buttonColor": "#E8006F",
+    "chainIds": [1, 10],
+    "iconLink": "",
+    "longName": "Uniswap DEX",
+    "explainerTitle": "Swap tokens and provide liquidity",
+    "explainerText": "A growing network of DeFi Apps. Developers, traders, and liquidity providers participate together in a financial marketplace that is open and accessible to all.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "PancakeSwap",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://pancakeswap.finance",
+    "buttonColor": "#39C3CC",
+    "chainIds": [56],
+    "iconLink": "",
+    "longName": "PancakeSwap DEX",
+    "explainerTitle": "Most popular AMM on BSC",
+    "explainerText": "Earn CAKE through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings, NFTs, and more, on a platform you can trust.",
+    "explainerStepByStep": [
+      "Tap \"Connect Wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "OpenSea",
+    "subtitle": "NFT Marketplace",
+    "connectLink": "https://opensea.io/",
+    "buttonColor": "#1868B7",
+    "chainIds": [1],
+    "iconLink": "",
+    "longName": "OpenSea NFT Marketplace",
+    "explainerTitle": "Discover, collect, and sell NFTs",
+    "explainerText": "A peer-to-peer marketplace for NFTs, rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKitties, Decentraland, Gods Unchained cards, blockchain game items, and more. ",
+    "explainerStepByStep": [
+      "Open the menu",
+      "Tap \"Connect wallet\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Curve (Ethereum)",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://curve.fi",
+    "buttonColor": "#A5A4CB",
+    "chainIds": [1],
+    "iconLink": "",
+    "longName": "Curve DEX",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Curve (Polygon)",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://polygon.curve.fi",
+    "buttonColor": "#A5A4CB",
+    "chainIds": [137],
+    "iconLink": "",
+    "longName": "Curve DEX",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Curve (Gnosis Chain)",
+    "subtitle": "Decentralized Exchange",
+    "connectLink": "https://xdai.curve.fi",
+    "buttonColor": "#A5A4CB",
+    "chainIds": [100],
+    "iconLink": "",
+    "longName": "Curve DEX",
+    "explainerTitle": "",
+    "explainerText": "",
+    "explainerStepByStep": [],
+    "sponsored": 0,
+    "sponsoredChainId": 0
+  },
+  {
+    "shortName": "Tornado Cash",
+    "subtitle": "Private Transactions",
+    "connectLink": "https://app.tornado.cash/",
+    "buttonColor": "#908F9D",
+    "chainIds": [1, 56, 100, 137, 43114],
+    "iconLink": "",
+    "longName": "Tornado Cash",
+    "explainerTitle": "Create on-chain private transactions",
+    "explainerText": "Tornado Cash protocol is fully decentralized and owned by the community. Tornado Cash smart contracts are fully open source and unstoppable: there are no admins and no upgradability.",
+    "explainerStepByStep": [
+      "Open the menu and choose Network",
+      "Tap \"Connect\"",
+      "Tap \"Connect Web3\"",
+      "Choose \"WalletConnect\"",
+      "Tap \"Connect\" and select \"Minerva Wallet\"",
+      "Choose preferred account and tap \"Connect\""
+    ],
+    "sponsored": 0,
     "sponsoredChainId": 0
   }
 ]
