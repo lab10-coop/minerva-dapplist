@@ -188,7 +188,7 @@
     "connectLink": "https://farm.minerva.digital/#connect",
     "buttonColor": "#5858ED",
     "chainIds": [100],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/minerva.svg",
+    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/minerva-animated.gif",
     "longName": "Minerva Streaming Farms",
     "explainerTitle": "Farm MIVA with streaming NFTs",
     "explainerText": "Once you added LP-Tokens to the farm, you will see your Farming NFTs. Whoever holds the NFT, gets the farming reward stream. Don't miss out on leveling up to get the maximum possible flowrate.",
