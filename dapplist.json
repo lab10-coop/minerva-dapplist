@@ -97,7 +97,7 @@
     "shortName": "Superfluid",
     "subtitle": "Programmable Cashflows",
     "connectLink": "https://app.superfluid.finance/dashboard",
-    "buttonColor": "#C9C8D3",
+    "buttonColor": "#000000",
     "chainIds": [3, 4, 5, 42, 100, 137, 80001],
     "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/superfluid.svg",
     "longName": "Superfluid Dashboard",
