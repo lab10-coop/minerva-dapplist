@@ -33,7 +33,7 @@
     "connectLink": "https://paraswap.io/",
     "buttonColor": "#396EEC",
     "chainIds": [1, 56, 137],
-    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/paraswap.png",
+    "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/paraswap.svg",
     "longName": "ParaSwap DEX Aggregator",
     "explainerTitle": "Token exchange and DeFi investing",
     "explainerText": "",
