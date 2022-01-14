@@ -1,71 +1,65 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "array",
-  "items": [
-    {
-      "type": "object",
-      "properties": {
-        "shortName": {
-          "type": "string"
-        },
-        "subtitle": {
-          "type": "string"
-        },
-        "connectLink": {
-          "type": "string"
-        },
-        "buttonColor": {
-          "type": "string"
-        },
-        "chainIds": {
-          "type": "array",
-          "items": [
-            {
-              "type": "integer"
-            }
-          ]
-        },
-        "iconLink": {
-          "type": "string"
-        },
-        "longName": {
-          "type": "string"
-        },
-        "explainerTitle": {
-          "type": "string"
-        },
-        "explainerText": {
-          "type": "string"
-        },
-        "explainerStepByStep": {
-          "type": "array",
-          "items": [
-            {
-              "type": "string"
-            }
-          ]
-        },
-        "sponsored": {
-          "type": "integer"
-        },
-        "sponsoredChainId": {
+  "items": {
+    "type": "object",
+    "properties": {
+      "shortName": {
+        "type": "string"
+      },
+      "subtitle": {
+        "type": "string"
+      },
+      "connectLink": {
+        "type": "string"
+      },
+      "buttonColor": {
+        "type": "string"
+      },
+      "chainIds": {
+        "type": "array",
+        "items": {
           "type": "integer"
         }
       },
-      "required": [
-        "shortName",
-        "subtitle",
-        "connectLink",
-        "buttonColor",
-        "chainIds",
-        "iconLink",
-        "longName",
-        "explainerTitle",
-        "explainerText",
-        "explainerStepByStep",
-        "sponsored",
-        "sponsoredChainId"
-      ]
-    }
-  ]
+      "iconLink": {
+        "type": "string"
+      },
+      "longName": {
+        "type": "string"
+      },
+      "explainerTitle": {
+        "type": "string"
+      },
+      "explainerText": {
+        "type": "string"
+      },
+      "explainerStepByStep": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "sponsored": {
+        "type": "integer"
+      },
+      "sponsoredChainId": {
+        "type": "integer"
+      }
+    },
+    "required": [
+      "shortName",
+      "subtitle",
+      "connectLink",
+      "buttonColor",
+      "chainIds",
+      "iconLink",
+      "longName",
+      "explainerTitle",
+      "explainerText",
+      "explainerStepByStep",
+      "sponsored",
+      "sponsoredChainId"
+    ]
+  }
 }
