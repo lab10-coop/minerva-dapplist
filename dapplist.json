@@ -53,7 +53,7 @@
     "explainerText": "",
     "explainerStepByStep": [],
     "sponsored": 0,
-    "sponsoredChainId": 100
+    "sponsoredChainId": 0
   },
   {
     "shortName": "StakeWise",
@@ -163,7 +163,7 @@
     "sponsoredChainId": 0
   },
   {
-    "shortName": "Aave",
+    "shortName": "Aav0",
     "subtitle": "Borrowing / Lending Protocol",
     "connectLink": "https://app.aave.com/markets",
     "buttonColor": "#CC88BD",
