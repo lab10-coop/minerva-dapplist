@@ -1,10 +1,14 @@
-<svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<ellipse cx="25.077" cy="25" rx="24.9027" ry="25" fill="white"/>
-<mask id="mask0_112_7046" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="50" height="50">
-<ellipse cx="25.077" cy="25" rx="24.9027" ry="25" fill="white"/>
-</mask>
-<g mask="url(#mask0_112_7046)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M14.1598 10.9375H36.0348C37.7607 10.9375 39.1598 12.3366 39.1598 14.0625V35.9375C39.1598 37.6634 37.7607 39.0625 36.0348 39.0625H14.1598C12.4339 39.0625 11.0348 37.6634 11.0348 35.9375V14.0625C11.0348 12.3366 12.4339 10.9375 14.1598 10.9375Z" fill="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M27.7843 22.4374V27.6874H32.7843V22.4374H32.7845V17.4374L32.7843 17.4374H27.7843V17.4374H22.5345V22.4374H27.7843ZM22.5345 32.6875V27.6875H27.5345V32.6875H22.5345Z" fill="white"/>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 51 50" style="enable-background:new 0 0 51 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#12141E;}
+</style>
+<ellipse class="st0" cx="25.077" cy="25" rx="24.9027" ry="25"/>
+<path id="Fill-12" class="st1" d="M32.54279,27.34748h-4.69513v-4.69513h-4.69531v-4.69531h9.39044V27.34748z M18.45722,32.04261
+	h4.69513v-4.69513h-4.69513V32.04261z M12.63303,14.94549v20.10902c0,1.55315,1.25914,2.81247,2.81247,2.81247h20.10902
+	c1.55333,0,2.81246-1.25932,2.81246-2.81247V14.94549c0-1.55333-1.25913-2.81247-2.81246-2.81247H15.4455
+	C13.89216,12.13302,12.63303,13.39216,12.63303,14.94549L12.63303,14.94549z"/>
 </svg>
