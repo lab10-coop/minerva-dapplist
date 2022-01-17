@@ -1,5 +1,6 @@
 {
   "type": "array",
+  "uniqueItems": true,
   "items": {
     "type": "object",
     "properties": {
@@ -17,6 +18,7 @@
       },
       "chainIds": {
         "type": "array",
+        "uniqueItems": true,
         "items": {
           "type": "integer"
         }
@@ -35,6 +37,7 @@
       },
       "explainerStepByStep": {
         "type": "array",
+        "uniqueItems": true,
         "items": {
           "type": "string"
         }
