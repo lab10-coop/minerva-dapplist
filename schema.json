@@ -1,67 +1,75 @@
 {
-  "type": "array",
-  "uniqueItems": true,
-  "items": {
-    "type": "object",
-    "properties": {
-      "shortName": {
-        "type": "string"
-      },
-      "subtitle": {
-        "type": "string"
-      },
-      "connectLink": {
-        "type": "string"
-      },
-      "buttonColor": {
-        "type": "string"
-      },
-      "chainIds": {
-        "type": "array",
-        "uniqueItems": true,
-        "items": {
-          "type": "integer"
-        }
-      },
-      "iconLink": {
-        "type": "string"
-      },
-      "longName": {
-        "type": "string"
-      },
-      "explainerTitle": {
-        "type": "string"
-      },
-      "explainerText": {
-        "type": "string"
-      },
-      "explainerStepByStep": {
-        "type": "array",
-        "uniqueItems": true,
-        "items": {
-          "type": "string"
-        }
-      },
-      "sponsored": {
-        "type": "integer"
-      },
-      "sponsoredChainId": {
-        "type": "integer"
-      }
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string"
     },
-    "required": [
-      "shortName",
-      "subtitle",
-      "connectLink",
-      "buttonColor",
-      "chainIds",
-      "iconLink",
-      "longName",
-      "explainerTitle",
-      "explainerText",
-      "explainerStepByStep",
-      "sponsored",
-      "sponsoredChainId"
-    ]
+    "dapps": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "shortName": {
+            "type": "string"
+          },
+          "subtitle": {
+            "type": "string"
+          },
+          "connectLink": {
+            "type": "string"
+          },
+          "buttonColor": {
+            "type": "string"
+          },
+          "chainIds": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "type": "integer"
+            }
+          },
+          "iconLink": {
+            "type": "string"
+          },
+          "longName": {
+            "type": "string"
+          },
+          "explainerTitle": {
+            "type": "string"
+          },
+          "explainerText": {
+            "type": "string"
+          },
+          "explainerStepByStep": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "type": "string"
+            }
+          },
+          "sponsored": {
+            "type": "integer"
+          },
+          "sponsoredChainId": {
+            "type": "integer"
+          }
+        },
+        "required": [
+          "shortName",
+          "subtitle",
+          "connectLink",
+          "buttonColor",
+          "chainIds",
+          "iconLink",
+          "longName",
+          "explainerTitle",
+          "explainerText",
+          "explainerStepByStep",
+          "sponsored",
+          "sponsoredChainId"
+        ]
+      }
+    }
   }
 }
