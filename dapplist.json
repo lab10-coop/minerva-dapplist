@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -45,7 +45,7 @@
     },
     {
       "shortName": "DeHive",
-      "subtitle": "Well-Balanced Crypto Indexes",
+      "subtitle": "Well-Balanced Crypto Indexes with some extra long description to test if it breaks the UI",
       "connectLink": "https://app.dehive.finance/",
       "buttonColor": "#3F3F4B",
       "chainIds": [1, 56, 100, 137],
