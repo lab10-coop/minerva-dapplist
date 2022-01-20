@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -16,7 +16,7 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Ricochet2",
+      "shortName": "Ricochet",
       "subtitle": "Real-time Crypto Investing",
       "connectLink": "https://app.ricochet.exchang/",
       "buttonColor": "#071b2e",
@@ -202,7 +202,7 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Symmetric2",
+      "shortName": "Symmetric",
       "subtitle": "Decentralized Exchange",
       "connectLink": "https://xdai.symmetric.exchange/",
       "buttonColor": "#334956",
@@ -294,7 +294,7 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "CowSwap2",
+      "shortName": "CowSwap",
       "subtitle": "DEX Aggregator Service",
       "connectLink": "https://cowswap.exchange",
       "buttonColor": "#7FADBE",
