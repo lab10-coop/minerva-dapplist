@@ -1,5 +1,5 @@
 {
-  "version": "0.0.9",
+  "version": "0.0.10",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -55,7 +55,7 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
-      "sponsoredChainId": 100
+      "sponsoredChainId": 0
     },
     {
       "shortName": "StakeWise",
@@ -74,7 +74,7 @@
         "Choose preferred account and tap \"Connect\""
       ],
       "sponsored": 0,
-      "sponsoredChainId": 1
+      "sponsoredChainId": 0
     },
     {
       "shortName": "Honeyswap",
