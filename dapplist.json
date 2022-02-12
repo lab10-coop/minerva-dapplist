@@ -1,5 +1,5 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.9",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -111,7 +111,7 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
-      "sponsored": 2,
+      "sponsored": 0,
       "sponsoredChainId": 0
     },
     {
@@ -198,7 +198,7 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
-      "sponsored": 1,
+      "sponsored": 0,
       "sponsoredChainId": 0
     },
     {
@@ -217,7 +217,7 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
-      "sponsored": 3,
+      "sponsored": 0,
       "sponsoredChainId": 0
     },
     {
