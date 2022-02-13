@@ -18,7 +18,7 @@
     {
       "shortName": "Ricochet",
       "subtitle": "Real-time Crypto Investing",
-      "connectLink": "https://app.ricochet.exchang/",
+      "connectLink": "https://app.ricochet.exchange/",
       "buttonColor": "#071b2e",
       "chainIds": [137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_ricochet.svg",
