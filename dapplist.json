@@ -1,5 +1,5 @@
 {
-  "version": "0.0.11",
+  "version": "0.0.12",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -421,6 +421,25 @@
         "Open the menu and choose Network",
         "Tap \"Connect\"",
         "Tap \"Connect Web3\"",
+        "Choose \"WalletConnect\"",
+        "Tap \"Connect\" and select \"Minerva Wallet\"",
+        "Choose preferred account and tap \"Connect\""
+      ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Beefy",
+      "subtitle": "Finance Yield Optimizer",
+      "connectLink": "https://app.beefy.finance/#/bsc",
+      "buttonColor": "#3F3F4B",
+      "chainIds": [56],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_beefy.svg",
+      "longName": "Beefy",
+      "explainerTitle": "Decentralized Finance Yield Optimizer",
+      "explainerText": "",
+      "explainerStepByStep": [
+        "Tap \"? Wallet\"",
         "Choose \"WalletConnect\"",
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
