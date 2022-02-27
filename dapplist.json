@@ -1,5 +1,5 @@
 {
-  "version": "0.0.13",
+  "version": "0.0.14",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -440,6 +440,25 @@
       "explainerText": "",
       "explainerStepByStep": [
         "Tap \"? Wallet\"",
+        "Choose \"WalletConnect\"",
+        "Tap \"Connect\" and select \"Minerva Wallet\"",
+        "Choose preferred account and tap \"Connect\""
+      ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "SNAFU",
+      "subtitle": "Artists Collective",
+      "connectLink": "https://app.nftsnafu.org/#/",
+      "buttonColor": "#BC423E",
+      "chainIds": [100],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_snafu.svg",
+      "longName": "SNAFU Collective",
+      "explainerTitle": "Artists Collective",
+      "explainerText": "",
+      "explainerStepByStep": [
+        "Tap \"LOGIN\"",
         "Choose \"WalletConnect\"",
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
