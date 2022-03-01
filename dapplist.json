@@ -456,7 +456,7 @@
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_snafu.svg",
       "longName": "SNAFU Collective",
       "explainerTitle": "Artists Collective",
-      "explainerText": "",
+      "explainerText": "SNAFU is an NFT marketplace managed by an Artist Collective and a DAO of collectors.",
       "explainerStepByStep": [
         "Tap \"LOGIN\"",
         "Choose \"WalletConnect\"",
