@@ -1,5 +1,5 @@
 {
-  "version": "0.0.14",
+  "version": "0.0.15",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -462,6 +462,22 @@
         "Choose \"WalletConnect\"",
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
+      ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Mt. Pelerin",
+      "subtitle": "Buy & Sell Cryptocurrencies",
+      "connectLink": "https://widget.mtpelerin.com/?lang=en&bsc=EUR&bdc=XDAI&sdc=EUR&ssc=XDAI&primary=%238349d1&success=%23443ad2&type=webview&crys=BNB,BUSD,DAI,ETH,jAUD,jCAD,jCHF,jEUR,jGBP,jJPY,jSEK,jSGD,jZAR,MATIC,USDC,USDT,WBTC,WETH,XDAI&net=xdai_mainnet&nets=bsc_mainnet,mainnet,matic_mainnet,xdai_mainnet",
+      "buttonColor": "#119cd5",
+      "chainIds": [1, 56, 100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_mtpelerin.svg",
+      "longName": "Mt. Pelerin Exchange",
+      "explainerTitle": "Buy & Sell Cryptocurrencies",
+      "explainerText": "",
+      "explainerStepByStep": [
+        "Choose preferred amount and follow the steps"
       ],
       "sponsored": 0,
       "sponsoredChainId": 0
