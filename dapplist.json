@@ -1,5 +1,5 @@
 {
-  "version": "0.0.14",
+  "version": "0.0.17",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -242,7 +242,7 @@
     {
       "shortName": "Swapr",
       "subtitle": "DEX & DeFi accross chains",
-      "connectLink": "https://bafybeicfhtvm543idbdzmtjw6o5gwkhzkjywqt2tb3qfwwkudjuvjhkjoe.ipfs.dweb.link/#/swap?chainId=100",
+      "connectLink": "https://swapr.eth.link/#/swap?chainId=100",
       "buttonColor": "#3F3F4B",
       "chainIds": [1, 100],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_swapr.svg",
