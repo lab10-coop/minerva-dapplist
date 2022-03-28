@@ -1,5 +1,5 @@
 {
-  "version": "0.0.15",
+  "version": "0.0.16",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -463,6 +463,20 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Rarible",
+      "subtitle": "NFT Auctions & Marketplace",
+      "connectLink": "https://rarible.com/",
+      "buttonColor": "#FEDA03",
+      "chainIds": [1],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_rarible.svg",
+      "longName": "Rarible NFTs",
+      "explainerTitle": "Create and trade NFTs",
+      "explainerText": "",
+      "explainerStepByStep": [],
       "sponsored": 0,
       "sponsoredChainId": 0
     },
