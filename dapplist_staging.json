@@ -1,5 +1,5 @@
 {
-  "version": "0.0.20",
+  "version": "0.0.21",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -498,13 +498,13 @@
     },
     {
       "shortName": "DODO",
-      "subtitle": "DEX Aggregator Service",
-      "connectLink": "https://app.dodoex.io/",
+      "subtitle": "DEX Aggregator Across Chains",
+      "connectLink": "https://app.dodoex.io/?utm_source=MinervaWallet",
       "buttonColor": "#252831",
       "chainIds": [1, 56, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_dodo.svg",
-      "longName": "DODO",
-      "explainerTitle": "DODO DEX Aggregator",
+      "longName": "DODO DEX",
+      "explainerTitle": "Trade any asset across multiple chains",
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
