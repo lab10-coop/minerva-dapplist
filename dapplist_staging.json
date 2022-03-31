@@ -1,14 +1,14 @@
 {
-  "version": "0.0.23",
+  "version": "0.0.24",
   "dapps": [
     {
-      "shortName": "xPollinate",
+      "shortName": "Connext Bridge",
       "subtitle": "Cross-Chain Transfer",
-      "connectLink": "https://xpollinate.io/",
-      "buttonColor": "#5C5D6D",
+      "connectLink": "https://bridge.connext.network/",
+      "buttonColor": "#111827",
       "chainIds": [1, 56, 100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_xpollinate.svg",
-      "longName": "xPollinate Bridging",
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png",
+      "longName": "Connext Bridge",
       "explainerTitle": "Token transfer between chains",
       "explainerText": "",
       "explainerStepByStep": [],
@@ -508,7 +508,7 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 1,
-      "sponsoredChainId": 137
+      "sponsoredChainId": [1, 56, 137]
     }
   ]
 }
