@@ -1,5 +1,5 @@
 {
-  "version": "0.0.22",
+  "version": "0.0.23",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -508,7 +508,7 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 1,
-      "sponsoredChainId": [1, 56, 137]
+      "sponsoredChainId": 137
     }
   ]
 }
