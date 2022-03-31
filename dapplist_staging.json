@@ -1,5 +1,5 @@
 {
-  "version": "0.0.21",
+  "version": "0.0.22",
   "dapps": [
     {
       "shortName": "xPollinate",
@@ -507,8 +507,8 @@
       "explainerTitle": "Trade any asset across multiple chains",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 0,
-      "sponsoredChainId": 0
+      "sponsored": 1,
+      "sponsoredChainId": [1, 56, 137]
     }
   ]
 }
