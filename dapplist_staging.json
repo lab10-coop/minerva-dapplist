@@ -431,7 +431,7 @@
     {
       "shortName": "Beefy",
       "subtitle": "Finance Yield Optimizer",
-      "connectLink": "https://app.beefy.finance/#/bsc",
+      "connectLink": "https://app.beefy.finance/",
       "buttonColor": "#3F3F4B",
       "chainIds": [56],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_beefy.svg",
