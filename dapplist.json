@@ -1,14 +1,14 @@
 {
-  "version": "0.0.17",
+  "version": "0.0.25",
   "dapps": [
     {
-      "shortName": "xPollinate",
+      "shortName": "Connext Bridge",
       "subtitle": "Cross-Chain Transfer",
-      "connectLink": "https://xpollinate.io/",
-      "buttonColor": "#5C5D6D",
+      "connectLink": "https://bridge.connext.network/",
+      "buttonColor": "#111827",
       "chainIds": [1, 56, 100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_xpollinate.svg",
-      "longName": "xPollinate Bridging",
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png",
+      "longName": "Connext Bridge",
       "explainerTitle": "Token transfer between chains",
       "explainerText": "",
       "explainerStepByStep": [],
@@ -45,7 +45,7 @@
     },
     {
       "shortName": "DeHive",
-      "subtitle": "Well-Balanced Crypto Indexes with some extra long description to test if it breaks the UI",
+      "subtitle": "Well-Balanced Crypto Indexes",
       "connectLink": "https://app.dehive.finance/",
       "buttonColor": "#3F3F4B",
       "chainIds": [1, 56, 100, 137],
@@ -254,25 +254,6 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Zeroalpha",
-      "subtitle": "Always-on-Sale Artwork",
-      "connectLink": "https://zeroalpha.art/",
-      "buttonColor": "#5C5D6D",
-      "chainIds": [100],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_zeroalpha.svg",
-      "longName": "Zeroalpha NFT Marketplace",
-      "explainerTitle": "Purchase always-on-sale NFTs",
-      "explainerText": "ZeroAlpha is an always-on-sale NFT artwork platform, where the owners provide a patronage fee to non-profit and purpose-driven organizations working on the UN Sustainable Development Goals.",
-      "explainerStepByStep": [
-        "Tap \"Connect Wallet\"",
-        "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
       "shortName": "1inch",
       "subtitle": "DEX Aggregator Service",
       "connectLink": "https://app.1inch.io/",
@@ -463,6 +444,50 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Rarible",
+      "subtitle": "NFT Auctions & Marketplace",
+      "connectLink": "https://rarible.com/",
+      "buttonColor": "#FEDA03",
+      "chainIds": [1],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_rarible.svg",
+      "longName": "Rarible NFTs",
+      "explainerTitle": "Create and trade NFTs",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Mt Pelerin",
+      "subtitle": "Buy & Sell Cryptocurrencies",
+      "connectLink": "https://widget.mtpelerin.com/?lang=en&bsc=EUR&bdc=XDAI&sdc=EUR&ssc=XDAI&primary=%238349d1&success=%23443ad2&type=webview&crys=BNB,BUSD,DAI,ETH,jAUD,jCAD,jCHF,jEUR,jGBP,jJPY,jSEK,jSGD,jZAR,MATIC,USDC,USDT,WBTC,WETH,XDAI&net=xdai_mainnet&nets=bsc_mainnet,mainnet,matic_mainnet,xdai_mainnet&mylogo=https%3A%2F%2Fminerva.digital%2Fstatic%2Fminerva-mt-pelerin.svg",
+      "buttonColor": "#119cd5",
+      "chainIds": [1, 56, 100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_mt-pelerin.svg",
+      "longName": "Mt Pelerin Exchange",
+      "explainerTitle": "Buy & Sell Cryptocurrencies",
+      "explainerText": "",
+      "explainerStepByStep": [
+        "Choose preferred amount and follow the steps"
+      ],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "DODO",
+      "subtitle": "DEX Aggregator Across Chains",
+      "connectLink": "https://app.dodoex.io/?utm_source=MinervaWallet",
+      "buttonColor": "#252831",
+      "chainIds": [1, 56, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_dodo.svg",
+      "longName": "DODO DEX",
+      "explainerTitle": "Trade any asset across multiple chains",
+      "explainerText": "",
+      "explainerStepByStep": [],
       "sponsored": 0,
       "sponsoredChainId": 0
     }
