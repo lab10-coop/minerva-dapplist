@@ -254,25 +254,6 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Zeroalpha",
-      "subtitle": "Always-on-Sale Artwork",
-      "connectLink": "https://zeroalpha.art/",
-      "buttonColor": "#5C5D6D",
-      "chainIds": [100],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_zeroalpha.svg",
-      "longName": "Zeroalpha NFT Marketplace",
-      "explainerTitle": "Purchase always-on-sale NFTs",
-      "explainerText": "ZeroAlpha is an always-on-sale NFT artwork platform, where the owners provide a patronage fee to non-profit and purpose-driven organizations working on the UN Sustainable Development Goals.",
-      "explainerStepByStep": [
-        "Tap \"Connect Wallet\"",
-        "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
       "shortName": "1inch",
       "subtitle": "DEX Aggregator Service",
       "connectLink": "https://app.1inch.io/",
