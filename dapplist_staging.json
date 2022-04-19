@@ -277,7 +277,7 @@
     {
       "shortName": "CowSwap",
       "subtitle": "DEX Aggregator Service",
-      "connectLink": "https://cowswap.exchange/#/?referral=0x1e6CfDA5F47cC880A70E35dFb9E3308c71806a5e",
+      "connectLink": "https://cowswap.exchange/#/?referral=0x6A0491132aF4d0925F857A5000bb21e5C5C195EA",
       "buttonColor": "#7FADBE",
       "chainIds": [1],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_cowswap.svg",
