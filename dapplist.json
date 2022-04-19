@@ -256,7 +256,7 @@
     {
       "shortName": "1inch",
       "subtitle": "DEX Aggregator Service",
-      "connectLink": "https://app.1inch.io/",
+      "connectLink": "https://app.1inch.io/#/r/0x3b33e333b2cb692bc98ac655ba92a592cd42d755",
       "buttonColor": "#192951",
       "chainIds": [1, 10, 56, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_1inch.svg",
