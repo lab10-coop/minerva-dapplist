@@ -1,5 +1,5 @@
 {
-  "version": "0.0.31",
+  "version": "0.0.32",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -490,20 +490,6 @@
       "explainerStepByStep": [],
       "sponsored": 0,
       "sponsoredChainId": 97
-    },
-    {
-      "shortName": "Bored David",
-      "subtitle": "Giveaway code: BoredMinerva",
-      "connectLink": "https://boreddavid.com",
-      "buttonColor": "#1d1d1b",
-      "chainIds": [1, 56, 100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_boreddavid2.png",
-      "longName": "Bored David",
-      "explainerTitle": "",
-      "explainerText": "",
-      "explainerStepByStep": [],
-      "sponsored": 1,
-      "sponsoredChainId": 0
     }
   ]
 }
