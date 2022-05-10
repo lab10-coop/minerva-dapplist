@@ -1,5 +1,5 @@
 {
-  "version": "0.0.29",
+  "version": "0.0.30",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -497,7 +497,7 @@
       "connectLink": "https://boreddavid.com",
       "buttonColor": "#1d1d1b",
       "chainIds": [1, 56, 100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_boreddavid.png",
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_boreddavid2.png",
       "longName": "Bored David",
       "explainerTitle": "",
       "explainerText": "",
