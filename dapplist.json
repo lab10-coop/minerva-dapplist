@@ -1,5 +1,5 @@
 {
-  "version": "0.0.30",
+  "version": "0.0.31",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -493,7 +493,7 @@
     },
     {
       "shortName": "Bored David",
-      "subtitle": "GIVEAWAY CODE: BoredMinerva",
+      "subtitle": "6666 David of Michelangelo NFTs",
       "connectLink": "https://boreddavid.com",
       "buttonColor": "#1d1d1b",
       "chainIds": [1, 56, 100, 137],
