@@ -1,5 +1,5 @@
 {
-  "version": "0.0.36",
+  "version": "0.0.37",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -79,7 +79,7 @@
     {
       "shortName": "Honeyswap",
       "subtitle": "Decentralized Exchange",
-      "connectLink": "https://app.honeyswap.org/",
+      "connectLink": "https://honeyswap.1hive.eth.limo/#/",
       "buttonColor": "#FFAA00",
       "chainIds": [100, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_honeyswap.svg",
