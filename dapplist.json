@@ -1,5 +1,5 @@
 {
-  "version": "0.0.33",
+  "version": "0.0.34",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -100,7 +100,7 @@
       "subtitle": "Programmable Cashflows",
       "connectLink": "https://app.superfluid.finance/dashboard",
       "buttonColor": "#212121",
-      "chainIds": [3, 4, 5, 42, 100, 137, 80001],
+      "chainIds": [3, 4, 5, 10, 42, 56, 100, 137, 42161, 43114, 80001],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_superfluid.svg",
       "longName": "Superfluid Dashboard",
       "explainerTitle": "Manage streamable tokens",
