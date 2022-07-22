@@ -1,5 +1,5 @@
 {
-  "version": "0.0.32",
+  "version": "0.0.33",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -111,7 +111,7 @@
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
-      "sponsored": 0,
+      "sponsored": 1,
       "sponsoredChainId": 0
     },
     {
