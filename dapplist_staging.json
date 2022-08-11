@@ -1,5 +1,5 @@
 {
-  "version": "0.0.39",
+  "version": "0.0.40",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -518,6 +518,34 @@
       "chainIds": [1, 56, 100, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_boreddavid2.png",
       "longName": "Bored David",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Snapshot",
+      "subtitle": "Decentralized governance platform",
+      "connectLink": "https://snapshot.org/",
+      "buttonColor": "#171619",
+      "chainIds": [1, 56, 100, 137, 43114, 42161, 10, 80001, 42220],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_snapshot.png",
+      "longName": "Snapshot",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Minerva on Snapshot",
+      "subtitle": "Vote on upcoming features!",
+      "connectLink": "https://snapshot.org/#/minerva.eth/",
+      "buttonColor": "#453AD2",
+      "chainIds": [100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.png",
+      "longName": "Minerva on Snapshot",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
