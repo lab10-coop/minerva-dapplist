@@ -1,5 +1,5 @@
 {
-  "version": "0.0.40",
+  "version": "0.0.41",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -530,7 +530,7 @@
       "connectLink": "https://snapshot.org/",
       "buttonColor": "#171619",
       "chainIds": [1, 56, 100, 137, 43114, 42161, 10, 80001, 42220],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_snapshot.png",
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_snapshot.svg",
       "longName": "Snapshot",
       "explainerTitle": "",
       "explainerText": "",
@@ -544,7 +544,7 @@
       "connectLink": "https://snapshot.org/#/minerva.eth/",
       "buttonColor": "#453AD2",
       "chainIds": [100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.png",
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
       "longName": "Minerva on Snapshot",
       "explainerTitle": "",
       "explainerText": "",
