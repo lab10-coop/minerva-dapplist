@@ -1,5 +1,5 @@
 {
-  "version": "0.0.50",
+  "version": "0.0.51",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -490,20 +490,6 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Minerva on Snapshot",
-      "subtitle": "Vote on upcoming features!",
-      "connectLink": "https://snapshot.org/#/minerva.eth/",
-      "buttonColor": "#453AD2",
-      "chainIds": [100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
-      "longName": "Minerva on Snapshot",
-      "explainerTitle": "",
-      "explainerText": "",
-      "explainerStepByStep": [],
-      "sponsored": 1,
-      "sponsoredChainId": 0
-    },
-    {
       "shortName": "Trader Joe",
       "subtitle": "Decentralized Trading on AVAX",
       "connectLink": "https://traderjoexyz.com/",
@@ -515,6 +501,34 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Minerva on Snapshot",
+      "subtitle": "Vote on upcoming features!",
+      "connectLink": "https://snapshot.org/#/minerva.eth/",
+      "buttonColor": "#453AD2",
+      "chainIds": [100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
+      "longName": "Minerva on Snapshot",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Minerva Snapshot Vote #2",
+      "subtitle": "Feature Vote #2 until Sept. 9th",
+      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0x6e76bf9c02c47da482eee1b42e6a1a986551e2c699f49a553fb0ce02cb05611f",
+      "buttonColor": "#453AD2",
+      "chainIds": [100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_proposal.svg",
+      "longName": "Minerva on Snapshot",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 1,
       "sponsoredChainId": 0
     }
   ]
