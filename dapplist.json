@@ -1,5 +1,5 @@
 {
-  "version": "0.0.53",
+  "version": "0.0.54",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -518,8 +518,8 @@
       "sponsoredChainId": 0
     },
     {
-      "shortName": "Buy MIVA on GnosisChain",
-      "subtitle": "Increase your voting power by purchasing MIVA",
+      "shortName": "Buy MIVA on Gnosis",
+      "subtitle": "and increase your voting power!",
       "connectLink": "https://app.1inch.io/#/100/swap/xDAI/MIVA",
       "buttonColor": "#453AD2",
       "chainIds": [100, 137],
