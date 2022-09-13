@@ -1,5 +1,5 @@
 {
-  "version": "0.0.51",
+  "version": "0.0.52",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -261,9 +261,9 @@
     {
       "shortName": "Swapr",
       "subtitle": "DEX & DeFi accross chains",
-      "connectLink": "https://swapr.eth.link/#/swap?chainId=100",
+      "connectLink": "https://swapr.eth.limo/#/swap?chainId=100",
       "buttonColor": "#3F3F4B",
-      "chainIds": [1, 100],
+      "chainIds": [1, 10, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_swapr.svg",
       "longName": "Swapr DEX",
       "explainerTitle": "",
