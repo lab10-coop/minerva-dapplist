@@ -520,7 +520,7 @@
     {
       "shortName": "Buy MIVA on Gnosis",
       "subtitle": "and increase your voting power!",
-      "connectLink": "https://app.1inch.io/#/100/swap/xDAI/MIVA",
+      "connectLink": "https://app.1inch.io/#/100/unified/swap/xDAI/MIVA",
       "buttonColor": "#453AD2",
       "chainIds": [100, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
