@@ -1,5 +1,5 @@
 {
-  "version": "0.0.51",
+  "version": "0.0.52",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -296,7 +296,7 @@
     {
       "shortName": "CowSwap",
       "subtitle": "MEV protected swaps",
-      "connectLink": "https://cowswap.exchange/#/?referral=0x3B33e333B2cb692bc98aC655ba92a592Cd42D755",
+      "connectLink": "https://swap.cow.fi/#/?referral=0x3B33e333B2cb692bc98aC655ba92a592Cd42D755",
       "buttonColor": "#7FADBE",
       "chainIds": [1, 100, 4, 5],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_cowswap.svg",
