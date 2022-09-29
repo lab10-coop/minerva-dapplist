@@ -1,5 +1,5 @@
 {
-  "version": "0.0.52",
+  "version": "0.0.53",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -511,6 +511,34 @@
       "chainIds": [43114],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_traderjoe.svg",
       "longName": "One-stop-shop decentralized trading on Avalanche",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Ubeswap",
+      "subtitle": "DeFi exchange on Celo",
+      "connectLink": "https://ubeswap.org",
+      "buttonColor": "#b026ff",
+      "chainIds": [42220],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_ubeswap.svg",
+      "longName": "Mobile-first DeFi exchange",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Moola Market",
+      "subtitle": "Lending protocol on Celo",
+      "connectLink": "https://moola.market/",
+      "buttonColor": "#3488ec",
+      "chainIds": [42220],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_moola.svg",
+      "longName": "Leading lending protocol on Celo",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
