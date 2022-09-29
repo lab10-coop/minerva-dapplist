@@ -1,5 +1,5 @@
 {
-  "version": "0.0.58",
+  "version": "0.0.59",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -553,6 +553,20 @@
       "chainIds": [42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_moola.svg",
       "longName": "Leading lending protocol on Celo",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "GMX",
+      "subtitle": "Decentralized Perpetual Exchange",
+      "connectLink": "https://app.gmx.io/#/trade",
+      "buttonColor": "#16182e",
+      "chainIds": [42161, 43114],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_gmx.svg",
+      "longName": "Decentralized Perpetual Exchange",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
