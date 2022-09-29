@@ -1,5 +1,5 @@
 {
-  "version": "0.0.53",
+  "version": "0.0.54",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -521,7 +521,7 @@
       "shortName": "Ubeswap",
       "subtitle": "DeFi exchange on Celo",
       "connectLink": "https://ubeswap.org",
-      "buttonColor": "#b026ff",
+      "buttonColor": "#262626",
       "chainIds": [42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_ubeswap.svg",
       "longName": "Mobile-first DeFi exchange",
@@ -535,7 +535,7 @@
       "shortName": "Moola Market",
       "subtitle": "Lending protocol on Celo",
       "connectLink": "https://moola.market/",
-      "buttonColor": "#3488ec",
+      "buttonColor": "#2c2f36",
       "chainIds": [42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_moola.svg",
       "longName": "Leading lending protocol on Celo",
