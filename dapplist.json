@@ -1,5 +1,5 @@
 {
-  "version": "0.0.57",
+  "version": "0.0.58",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -531,7 +531,6 @@
       "sponsored": 1,
       "sponsoredChainId": 0
     },
-    ,
     {
       "shortName": "Ubeswap",
       "subtitle": "DeFi exchange on Celo",
