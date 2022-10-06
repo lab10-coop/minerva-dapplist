@@ -1,5 +1,5 @@
 {
-  "version": "0.0.59",
+  "version": "0.0.60",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -520,11 +520,11 @@
     {
       "shortName": "Buy MIVA on Gnosis",
       "subtitle": "and increase your voting power!",
-      "connectLink": "https://app.1inch.io/#/100/unified/swap/xDAI/MIVA",
+      "connectLink": "https://app.superfluid.finance/bridge?toChain=dai&toToken=0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
       "buttonColor": "#453AD2",
-      "chainIds": [100, 137],
+      "chainIds": [100, 137, 10, 42161, 43114, 56],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
-      "longName": "Get MIVA via 1inch",
+      "longName": "Get MIVA via the Superfluid Bridge powered by li.fi",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
