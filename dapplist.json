@@ -1,5 +1,5 @@
 {
-  "version": "0.0.60",
+  "version": "0.0.61",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -528,7 +528,7 @@
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
+      "sponsored": 0,
       "sponsoredChainId": 0
     },
     {
@@ -572,6 +572,19 @@
       "explainerStepByStep": [],
       "sponsored": 0,
       "sponsoredChainId": 0
+    },
+    {
+      "shortName": "MW-FPV #3 live now!",
+      "subtitle": "Feature Vote #3 until Oct. 16th",
+      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0x060b3e095142fa7436cb58fc62f7035dca1bead1165745591719c9538f1b812d",
+      "buttonColor": "#453AD2",
+      "chainIds": [100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_proposal.svg",
+      "longName": "Minerva on Snapshot",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 1,
+      "sponsoredChainId": 0
     }
-  ]
 }
