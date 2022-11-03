@@ -1,5 +1,5 @@
 {
-  "version": "0.0.62",
+  "version": "0.0.63",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -567,20 +567,6 @@
       "chainIds": [100, 137, 10, 42161, 43114, 56],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
       "longName": "Get MIVA via the Superfluid Bridge powered by li.fi",
-      "explainerTitle": "",
-      "explainerText": "",
-      "explainerStepByStep": [],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "MW-FPV #3 live now!",
-      "subtitle": "Feature Vote #3 until Oct. 16th",
-      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0x060b3e095142fa7436cb58fc62f7035dca1bead1165745591719c9538f1b812d",
-      "buttonColor": "#453AD2",
-      "chainIds": [100, 137],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_proposal.svg",
-      "longName": "Minerva on Snapshot",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
