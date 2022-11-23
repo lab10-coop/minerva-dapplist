@@ -1,5 +1,5 @@
 {
-  "version": "0.0.63",
+  "version": "0.0.64",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -370,7 +370,7 @@
       "subtitle": "Decentralized Exchange",
       "connectLink": "https://curve.fi",
       "buttonColor": "#A5A4CB",
-      "chainIds": [1, 10, 100, 137, 42161, 43114],
+      "chainIds": [1, 10, 100, 137, 42161, 43114, 42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_curve.svg",
       "longName": "Curve DEX",
       "explainerTitle": "",
@@ -567,6 +567,20 @@
       "chainIds": [100, 137, 10, 42161, 43114, 56],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_minerva-dao.svg",
       "longName": "Get MIVA via the Superfluid Bridge powered by li.fi",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "MW-FPV #4 live now!",
+      "subtitle": "Feature Vote #4 until Nov. 29th",
+      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0xc66a3043408b558c67e2101bb08b7d3ea2c1535b5958dd45ff9a429ef267a495",
+      "buttonColor": "#453AD2",
+      "chainIds": [100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_proposal.svg",
+      "longName": "Minerva on Snapshot",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
