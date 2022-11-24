@@ -1,5 +1,5 @@
 {
-  "version": "0.0.64",
+  "version": "0.0.65",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -576,7 +576,7 @@
     {
       "shortName": "MW-FPV #4 live now!",
       "subtitle": "Feature Vote #4 until Nov. 29th",
-      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0xc66a3043408b558c67e2101bb08b7d3ea2c1535b5958dd45ff9a429ef267a495",
+      "connectLink": "https://snapshot.org/#/minerva.eth/proposal/0xf654181b88fa2536a66fba181337728b5f1bf3c560a68fa3fa5c547fcff99dc3",
       "buttonColor": "#453AD2",
       "chainIds": [100, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_proposal.svg",
