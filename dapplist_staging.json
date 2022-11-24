@@ -1,5 +1,5 @@
 {
-  "version": "0.0.56",
+  "version": "0.0.57",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -434,7 +434,7 @@
     {
       "shortName": "Mt Pelerin",
       "subtitle": "Buy & Sell Cryptocurrencies",
-      "connectLink": "https://widget.mtpelerin.com/?lang=en&bsc=EUR&bdc=XDAI&sdc=EUR&ssc=XDAI&primary=%238349d1&success=%23443ad2&crys=AVAX,BNB,BUSD,DAI,ETH,jAUD,jCAD,jCHF,jEUR,jGBP,jJPY,jSEK,jSGD,jZAR,MATIC,USDC,USDT,WBTC,WETH,XDAI&net=xdai_mainnet&nets=bsc_mainnet,arbitrum_mainnet,avalanche_mainnet,optimism_mainnet,mainnet,matic_mainnet,xdai_mainnet&mylogo=https%3A%2F%2Fminerva.digital%2Fstatic%2Fminerva-mt-pelerin.svg",
+      "connectLink": "https://widget.mtpelerin.com/?lang=en&bsc=EUR&bdc=XDAI&sdc=EUR&ssc=XDAI&primary=%238349d1&success=%23443ad2&crys=AVAX,BNB,BUSD,DAI,ETH,jAUD,jCAD,jCHF,jEUR,jGBP,jJPY,jSEK,jSGD,jZAR,MATIC,USDC,USDT,WBTC,WETH,XDAI&net=xdai_mainnet&nets=bsc_mainnet,arbitrum_mainnet,avalanche_mainnet,optimism_mainnet,mainnet,matic_mainnet,xdai_mainnet&mylogo=https%3A%2F%2Fminerva.digital%2Fstatic%2Fminerva-mt-pelerin.svg&rfr=minerva",
       "buttonColor": "#119cd5",
       "chainIds": [1, 10, 56, 100, 137, 42161, 43114],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_mt-pelerin.svg",
