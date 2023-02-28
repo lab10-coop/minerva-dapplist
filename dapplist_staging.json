@@ -1,5 +1,5 @@
 {
-  "version": "0.0.58",
+  "version": "0.0.59",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -108,23 +108,6 @@
       "explainerStepByStep": [
         "Tap \"Connect Wallet\"",
         "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Eporio",
-      "subtitle": "NFT Marketplace",
-      "connectLink": "https://epor.io/connect/",
-      "buttonColor": "#00B4C7",
-      "chainIds": [100, 42220],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_eporio.svg",
-      "longName": "Eporio NFT Marketplace",
-      "explainerTitle": "Create and trade NFTs",
-      "explainerText": "Eporio is a sustainable marketplace for digital art and game assets. Trade NFTs like POAP or create your own CryptoArt while enjoying some of the lowest fees in the crypto world.",
-      "explainerStepByStep": [
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],

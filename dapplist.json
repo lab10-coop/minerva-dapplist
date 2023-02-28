@@ -1,5 +1,5 @@
 {
-  "version": "0.0.67",
+  "version": "0.0.68",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -108,23 +108,6 @@
       "explainerStepByStep": [
         "Tap \"Connect Wallet\"",
         "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Eporio",
-      "subtitle": "NFT Marketplace",
-      "connectLink": "https://epor.io/connect/",
-      "buttonColor": "#00B4C7",
-      "chainIds": [100, 42220],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_eporio.svg",
-      "longName": "Eporio NFT Marketplace",
-      "explainerTitle": "Create and trade NFTs",
-      "explainerText": "Eporio is a sustainable marketplace for digital art and game assets. Trade NFTs like POAP or create your own CryptoArt while enjoying some of the lowest fees in the crypto world.",
-      "explainerStepByStep": [
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
@@ -553,6 +536,20 @@
       "chainIds": [42161, 43114],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_gmx.svg",
       "longName": "Decentralized Perpetual Exchange",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Peanut Protocol",
+      "subtitle": "Send crypto with a link",
+      "connectLink": "https://peanut.to/send",
+      "buttonColor": "#23a094",
+      "chainIds": [1, 5, 10, 56, 100, 137, 42161],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_peanutprotocol.svg",
+      "longName": "Send crypto with a link",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
