@@ -1,5 +1,5 @@
 {
-  "version": "0.0.68",
+  "version": "0.0.69",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -439,20 +439,6 @@
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_dodo.svg",
       "longName": "DODO DEX",
       "explainerTitle": "Trade any asset across multiple chains",
-      "explainerText": "",
-      "explainerStepByStep": [],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Bored David",
-      "subtitle": "6666 David of Michelangelo NFTs",
-      "connectLink": "https://boreddavid.com",
-      "buttonColor": "#1d1d1b",
-      "chainIds": [1, 56, 100, 137, 43114],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_boreddavid2.png",
-      "longName": "Bored David",
-      "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
