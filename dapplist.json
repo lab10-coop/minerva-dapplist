@@ -531,7 +531,7 @@
     {
       "shortName": "Peanut Protocol",
       "subtitle": "Send crypto with a link",
-      "connectLink": "https://peanut.to/send",
+      "connectLink": "https://peanut.to/send?ref=MinervaWallet",
       "buttonColor": "#23a094",
       "chainIds": [1, 5, 10, 56, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_peanutprotocol.svg",
