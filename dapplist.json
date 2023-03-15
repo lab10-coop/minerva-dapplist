@@ -1,5 +1,5 @@
 {
-  "version": "0.0.69",
+  "version": "0.0.70",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -295,7 +295,7 @@
       "subtitle": "Decentralized Exchange",
       "connectLink": "https://app.uniswap.org",
       "buttonColor": "#E8006F",
-      "chainIds": [1, 10, 137, 42161, 42220],
+      "chainIds": [1, 10, 56, 137, 42161, 42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_uniswap.svg",
       "longName": "Uniswap DEX",
       "explainerTitle": "Swap tokens and provide liquidity",
