@@ -1,5 +1,5 @@
 {
-  "version": "0.0.60",
+  "version": "0.0.61",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -550,6 +550,20 @@
       "chainIds": [1, 5, 10, 56, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_peanutprotocol.svg",
       "longName": "Send crypto with a link",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Balancer",
+      "subtitle": "Decentralized AMM & DEX",
+      "connectLink": "https://app.balancer.fi/",
+      "buttonColor": "#212121",
+      "chainIds": [1, 100, 137, 42161],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_balancer.svg",
+      "longName": "Decentralized automated market maker (AMM)",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
