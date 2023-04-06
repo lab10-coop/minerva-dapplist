@@ -1,5 +1,5 @@
 {
-  "version": "0.0.61",
+  "version": "0.0.62",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -564,6 +564,20 @@
       "chainIds": [1, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_balancer.svg",
       "longName": "Decentralized automated market maker (AMM)",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Idle Finance",
+      "subtitle": "The Yield Automation Protocol",
+      "connectLink": "https://app.idle.finance",
+      "buttonColor": "#233584",
+      "chainIds": [1, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_idle.svg",
+      "longName": "The Yield Automation Protocol",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
