@@ -1,5 +1,5 @@
 {
-  "version": "0.0.62",
+  "version": "0.0.63",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -578,6 +578,20 @@
       "chainIds": [1, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_idle.svg",
       "longName": "The Yield Automation Protocol",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Monerium",
+      "subtitle": "Euros for Web3",
+      "connectLink": "https://monerium.app/",
+      "buttonColor": "#2385C4",
+      "chainIds": [1, 100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_monerium.svg",
+      "longName": "Euros for Web3",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
