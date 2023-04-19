@@ -15,6 +15,10 @@ Celo                42220
 ARTIS sigma1        246529
 POA Core            99
 RSK Mainnet         30
+zkSync Era          324
+Polygon zkEVM       1101
+Arbitrum Nova       42170
+Moonbeam            1284
 
 
 ## Testnets
