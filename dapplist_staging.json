@@ -601,7 +601,7 @@
     {
       "shortName": "Gitcoin Beta Round",
       "subtitle": "April 25th - May 9th, 2023",
-      "connectLink": "https://gitcoin.co",
+      "connectLink": "https://explorer.gitcoin.co/#/round/1/0x12bb5bbbfe596dbc489d209299b8302c3300fa40/0x12bb5bbbfe596dbc489d209299b8302c3300fa40-114",
       "buttonColor": "#15322b",
       "chainIds": [1, 5, 10, 56, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_gitcoin.svg",
