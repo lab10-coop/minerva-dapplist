@@ -1,5 +1,5 @@
 {
-  "version": "0.0.63",
+  "version": "0.0.64",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -469,7 +469,7 @@
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
+      "sponsored": 0,
       "sponsoredChainId": 0
     },
     {
@@ -596,6 +596,20 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Gitcoin Beta Round",
+      "subtitle": "April 25th - May 9th, 2023",
+      "connectLink": "https://gitcoin.co",
+      "buttonColor": "#15322b",
+      "chainIds": [1, 5, 10, 56, 100, 137, 42161],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_gitcoin.svg",
+      "longName": "Gitcoin Beta Round from April 25th - May 9th, 2023",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 1,
       "sponsoredChainId": 0
     }
   ]
