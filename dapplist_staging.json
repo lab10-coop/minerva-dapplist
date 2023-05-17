@@ -1,5 +1,5 @@
 {
-  "version": "0.0.65",
+  "version": "0.0.66",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -623,7 +623,7 @@
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
+      "sponsored": 0,
       "sponsoredChainId": 0
     }
   ]
