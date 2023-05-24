@@ -1,5 +1,5 @@
 {
-  "version": "0.0.67",
+  "version": "0.0.68",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -609,8 +609,8 @@
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
-      "sponsoredChainId": 1
+      "sponsored": 0,
+      "sponsoredChainId": 0
     },
     {
       "shortName": "Gitcoin Beta Round",
