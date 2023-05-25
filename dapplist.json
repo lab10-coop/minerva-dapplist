@@ -1,5 +1,5 @@
 {
-  "version": "0.0.75",
+  "version": "0.0.76",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -550,6 +550,20 @@
       "chainIds": [1, 10, 56, 100, 137, 42161, 43114, 42220],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_jumper.svg",
       "longName": "Cross chain swap by LI.FI",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Verse",
+      "subtitle": "Decentralized Exchange",
+      "connectLink": "https://verse.bitcoin.com/",
+      "buttonColor": "#0f1823",
+      "chainIds": [1],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_verse.svg",
+      "longName": "Decentralized Exchange",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
