@@ -1,5 +1,5 @@
 {
-  "version": "0.0.78",
+  "version": "0.0.80",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -596,20 +596,6 @@
       "explainerText": "",
       "explainerStepByStep": [],
       "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "clr.fund",
-      "subtitle": "Support Minerva Wallet!",
-      "connectLink": "https://clr.fund/#/projects/0x3df6e24a5068e56e36c733dc169904af873feb9cce5171616a4268d1fb3b3044",
-      "buttonColor": "#211e2b",
-      "chainIds": [42161],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_clrfund.svg",
-      "longName": "",
-      "explainerTitle": "",
-      "explainerText": "",
-      "explainerStepByStep": [],
-      "sponsored": 1,
       "sponsoredChainId": 0
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "version": "0.0.70",
+  "version": "0.0.71",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -637,7 +637,35 @@
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Monerium",
+      "subtitle": "Euros for Web3",
+      "connectLink": "https://monerium.app/",
+      "buttonColor": "#2385C4",
+      "chainIds": [1, 100, 137],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_monerium.svg",
+      "longName": "Euros for Web3",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Gnosis Pay",
+      "subtitle": "A self-custodial Visa debit card.",
+      "connectLink": "https://gnosispay.com/app/signup",
+      "buttonColor": "#cddf52",
+      "chainIds": [1, 10, 56, 100, 137, 42161, 43114],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_gnosispay.svg",
+      "longName": "A self-custodial Visa debit card.",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
       "sponsoredChainId": 0
     }
   ]
