@@ -653,6 +653,20 @@
       "explainerStepByStep": [],
       "sponsored": 0,
       "sponsoredChainId": 0
-    }
+    },
+    {
+      "shortName": "Connext Airdrop",
+      "subtitle": "Claim you NEXT token!",
+      "connectLink": "https://airdrop.connext.network/",
+      "buttonColor": "#111827",
+      "chainIds": [1, 10, 137, 42161],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_connextbridge.png",
+      "longName": "Connext Airdrop",
+      "explainerTitle": "Claim you NEXT token!",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 1,
+      "sponsoredChainId": 0
+    },
   ]
 }
