@@ -1,5 +1,5 @@
 {
-  "version": "0.0.80",
+  "version": "0.0.81",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -578,6 +578,34 @@
       "chainIds": [1, 100, 137, 42161],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_balancer.svg",
       "longName": "Decentralized automated market maker (AMM)",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Revoke",
+      "subtitle": "Revoke token approvals",
+      "connectLink": "https://revoke.cash/",
+      "buttonColor": "#111111",
+      "chainIds": [1, 10, 56, 100, 137, 42161, 43114, 324, 1101, 11155111, 42, 5, 4, 3, 80001, 43113, 97],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_revoke.svg",
+      "longName": "Revoke token approvals",
+      "explainerTitle": "",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "NiftyFair",
+      "subtitle": "The decentralized NFT martketplace",
+      "connectLink": "https://niftyfair.io/?ref=MinervaWallet",
+      "buttonColor": "#111111",
+      "chainIds": [100],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_niftyfair.svg",
+      "longName": "The decentralized NFT martketplace",
       "explainerTitle": "",
       "explainerText": "",
       "explainerStepByStep": [],
