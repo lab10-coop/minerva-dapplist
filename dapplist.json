@@ -1,5 +1,5 @@
 {
-  "version": "0.0.81",
+  "version": "0.0.82",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -135,8 +135,8 @@
     },
     {
       "shortName": "Agave",
-      "subtitle": "Borrowing / Lending Protocol",
-      "connectLink": "https://app.agave.finance/",
+      "subtitle": "Borrowing & Lending Protocol",
+      "connectLink": "https://agave.finance/",
       "buttonColor": "#204C44",
       "chainIds": [100],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_agave.svg",
