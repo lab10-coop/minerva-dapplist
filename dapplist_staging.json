@@ -1,5 +1,5 @@
 {
-  "version": "0.0.75",
+  "version": "0.0.76",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -679,7 +679,21 @@
       "explainerTitle": "Claim you NEXT token!",
       "explainerText": "",
       "explainerStepByStep": [],
-      "sponsored": 1,
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "The Dapp List",
+      "subtitle": "Community curated Dapp list",
+      "connectLink": "https://thedapplist.com/",
+      "buttonColor": "#111827",
+      "chainIds": [1],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_thedapplist.svg",
+      "longName": "The Dapp List",
+      "explainerTitle": "Community curated DApp list",
+      "explainerText": "",
+      "explainerStepByStep": [],
+      "sponsored": 0,
       "sponsoredChainId": 0
     }
   ]
