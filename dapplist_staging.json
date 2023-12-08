@@ -1,5 +1,5 @@
 {
-  "version": "0.0.76",
+  "version": "0.0.77",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -178,63 +178,6 @@
       "explainerTitle": "Farm MIVA with streaming NFTs",
       "explainerText": "Once you added LP-Tokens to the farm, you will see your Farming NFTs. Whoever holds the NFT, gets the farming reward stream. Don't miss out on leveling up to get the maximum possible flowrate.",
       "explainerStepByStep": [
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Symmetric V1",
-      "subtitle": "Decentralized Exchange",
-      "connectLink": "https://xdai.symmetric.exchange/",
-      "buttonColor": "#334956",
-      "chainIds": [100],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_symmetric.svg",
-      "longName": "Symmetric DEX",
-      "explainerTitle": "Swap tokens, fast and cheap",
-      "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. ",
-      "explainerStepByStep": [
-        "Tap \"Connect Wallet\"",
-        "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Symmetric V1 Pools",
-      "subtitle": "Liquidity Pools",
-      "connectLink": "https://xdai-pools.symmetric.exchange/",
-      "buttonColor": "#334956",
-      "chainIds": [100],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_symmetric.svg",
-      "longName": "Symmetric DEX Pools",
-      "explainerTitle": "Become a liquidity provider",
-      "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. Add your liquidity or create new pools and earn swaping fees.",
-      "explainerStepByStep": [
-        "Tap \"Connect Wallet\"",
-        "Choose \"WalletConnect\"",
-        "Tap \"Connect\" and select \"Minerva Wallet\"",
-        "Choose preferred account and tap \"Connect\""
-      ],
-      "sponsored": 0,
-      "sponsoredChainId": 0
-    },
-    {
-      "shortName": "Symmetric V2",
-      "subtitle": "DEX on Gnosis Chain & Celo",
-      "connectLink": "https://gnosis.symm.fi/",
-      "buttonColor": "#fb6706",
-      "chainIds": [100, 42220],
-      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_symmetric-v2.svg",
-      "longName": "Symmetric V2 DEX",
-      "explainerTitle": "Swap tokens, fast and cheap",
-      "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. ",
-      "explainerStepByStep": [
-        "Tap \"Connect Wallet\"",
-        "Choose \"WalletConnect\"",
         "Tap \"Connect\" and select \"Minerva Wallet\"",
         "Choose preferred account and tap \"Connect\""
       ],
@@ -687,7 +630,7 @@
       "subtitle": "Community curated Dapp list",
       "connectLink": "https://thedapplist.com/",
       "buttonColor": "#111827",
-      "chainIds": [1],
+      "chainIds": [1, 137],
       "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_thedapplist.svg",
       "longName": "The Dapp List",
       "explainerTitle": "Community curated DApp list",
