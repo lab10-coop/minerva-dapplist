@@ -1,5 +1,5 @@
 {
-  "version": "0.0.77",
+  "version": "0.0.78",
   "dapps": [
     {
       "shortName": "Connext Bridge",
@@ -40,6 +40,25 @@
       "explainerTitle": "Token exchange and DeFi investing",
       "explainerText": "",
       "explainerStepByStep": [],
+      "sponsored": 0,
+      "sponsoredChainId": 0
+    },
+    {
+      "shortName": "Symmetric V1 Pools",
+      "subtitle": "Liquidity Pools",
+      "connectLink": "https://xdai-pools.symmetric.exchange/",
+      "buttonColor": "#334956",
+      "chainIds": [100],
+      "iconLink": "https://raw.githubusercontent.com/lab10-coop/minerva-dapplist/main/images/dapp_symmetric.svg",
+      "longName": "Symmetric DEX Pools",
+      "explainerTitle": "Become a liquidity provider",
+      "explainerText": "Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks. Add your liquidity or create new pools and earn swaping fees.",
+      "explainerStepByStep": [
+        "Tap \"Connect Wallet\"",
+        "Choose \"WalletConnect\"",
+        "Tap \"Connect\" and select \"Minerva Wallet\"",
+        "Choose preferred account and tap \"Connect\""
+      ],
       "sponsored": 0,
       "sponsoredChainId": 0
     },
